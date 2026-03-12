@@ -12,19 +12,19 @@ function Footer() {
 
       <div className="social-links">
 
-        <a href="https://leetcode.com/u/NJNTE0egUh/" target="_blank" rel="noreferrer">
+        <a href="https://leetcode.com/u/NJNTE0egUh/" target="_blank" rel="noopener noreferrer">
           <SiLeetcode />
         </a>
 
-        <a href="https://www.linkedin.com/in/prasadsanjiv/" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/prasadsanjiv/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin />
         </a>
 
-        <a href="https://github.com/Sanjiv215" target="_blank" rel="noreferrer">
+        <a href="https://github.com/Sanjiv215" target="_blank" rel="noopener noreferrer">
           <FaGithub />
         </a>
 
-        <a href="https://www.instagram.com/code.sanjiv/" target="_blank" rel="noreferrer">
+        <a href="https://www.instagram.com/code.sanjiv/" target="_blank" rel="noopener noreferrer">
           <FaInstagram />
         </a>
 
